@@ -1,5 +1,5 @@
 # QuAX Data
-This repository contains the original datasets from the paper "QuAX: Mining the Web for High-utility FAQ"
+This repository contains the original datasets from the CIKM '21 paper "QuAX: Mining the Web for High-utility FAQ"
 
 In this paper, we have proposed three novel datasets.
 
